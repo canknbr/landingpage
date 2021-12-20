@@ -2,6 +2,6 @@
 
 ## Visit Demo
 
-<!-- [visit demo]() -->
+[visit demo](https://landingpage-orcin.vercel.app/)
 
 ![screenshot](./ss.png)
